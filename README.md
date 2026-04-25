@@ -1,6 +1,15 @@
 ![logo](https://github.com/azharahmed01/azharahmed01/blob/main/AZHAR%20AHMED.png)
 <h1 align="center">Hi 👋, I'm Azhar Ahmed</h1>
 <h3 align="center">Aspiring Cyber Security Professional.</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1200&color=FF69B4&center=true&vCenter=true&width=850&lines=Multi-Skilled+Threat-Analyst;Java+%7C+HTML+%7C+C%2B%2B+Developer;Penetration+Tester+%26+Web+Developer;Studies+hackers+methods+and+predicts+future+attacks" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Threat Analyst%20%7C%20-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Penetration Tester-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mindset-Ethical%20Hacker-ff69b4?style=for-the-badge" />
+</p>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 
