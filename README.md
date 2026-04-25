@@ -1,4 +1,4 @@
-![logo](https://github.com/azharahmed01/azharahmed01/blob/main/Cyber%20learner.png)
+![logo](https://github.com/azharahmed01/azharahmed01/blob/main/AZHAR%20AHMED.png)
 <h1 align="center">Hi 👋, I'm Azhar Ahmed</h1>
 <h3 align="center">Aspiring Cyber Security Professional.</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
